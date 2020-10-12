@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>myFirstWebsite</title>
+
 </head>
 <body>
 
