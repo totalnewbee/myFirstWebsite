@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+
 <html>
 <head>
 <title>myFirstWebsite</title>
@@ -16,5 +16,4 @@ Here come's my first affiliate link:
 </p>
 <footer> <img src="https://www.w3schools.com/html/w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
 </footer>
-</body>
-</html> 
+ 
