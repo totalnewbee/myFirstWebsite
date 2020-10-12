@@ -1,12 +1,10 @@
 
 <html>
 <head>
-
 </head>
 <body>
-
 <h1>About me</h1>
-<p>I like to create also a blog within this myFirstWebsite.<br></p>
+<p>I like to create a blog within this myFirstWebsite.<br></p>
 <h2>thinking about my blog,it will be called "PABLO".
 <p>
 Pablo is going to publish a link to as much affiliate programs possible!
